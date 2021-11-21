@@ -13,7 +13,7 @@ git add *;
 
 git commit -m "nome file";
 
-git push --set-upstream origin master;
+git push origin master;
 
 Comandi utili per verificare il push:
 

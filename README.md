@@ -1,28 +1,32 @@
-# Mr_Stone_Don_Thomas_Push
-Push dei progetti di Mr. Stone e Don Thomas
+# Push Instruciotns
+Elenco comandi per il push dei progetti
 
 Comandi per pushare:
 
-copiare il link della pagina;
+- copiare il link della pagina;
 
-git init;
+- git init;
 
-git remote add origin "link";
+- git remote add origin "link";
 
-git add *;
+- git add *;
 
-git commit -m "nome file";
+- git commit -m "nome file";
 
-git push origin master / git pull -rebase origin master;
+- git push origin master / git pull -rebase origin master;
+
+
 
 Comandi utili per verificare il push:
 
-git status;
+- git status;
 
-git log;
+- git log;
 
-git clone "link" (per verificare il contenuto di ció che avete pushato);
+- git clone "link" (per verificare il contenuto di ció che avete pushato);
+
+
 
 Se volete ricominciare da capo:
 
-rm -r .git
+- rm -r .git
